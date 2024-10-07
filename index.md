@@ -1,4 +1,4 @@
-# Privacy Policy
+# Shamz Media Privacy Policy
 
 **Shamz Media** is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information in connection with our mobile application (**Shamz Media**).
 
