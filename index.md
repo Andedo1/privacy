@@ -10,6 +10,7 @@
 ## 2. How We Use Information
 
 - To operate and improve the app.
+- To personalize the user experience.
 - To provide customer support.
 
 ## 3. Data Sharing
@@ -34,6 +35,6 @@ We take appropriate security measures to protect information from unauthorized a
 
 We may update this Privacy Policy from time to time. If we make any significant changes, we will notify you by posting the new Privacy Policy on this page. We encourage you to review this Privacy Policy regularly.
 
-**Contact us** 
+## 8. Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us at [dreymontana@gmail.com].
