@@ -5,7 +5,7 @@
 ## 1. Information We Collect
 
 - **Personal Information**: We do not knowingly collect personal information (such as name, email address, or phone number) from children under the age of 13. If we discover that we have inadvertently collected such information, we will delete it immediately.
-- **Non-Personal Information**: We may collect non-personal information such as device information, game progress, and usage statistics to improve our app's performance and user experience.
+- **Non-Personal Information**: We may collect non-personal information such as device information, app progress, and usage statistics to improve our app's performance and user experience.
 
 ## 2. How We Use Information
 
